@@ -1,0 +1,8 @@
+.env
+*.conf
+*.token
+*.key
+cookie*
+*.cookie
+__pycache__/
+*.pyc
