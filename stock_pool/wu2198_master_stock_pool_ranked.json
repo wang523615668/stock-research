@@ -1,6 +1,6 @@
 {
-  "ranked_at": "2026-07-23T12:00:54+08:00",
-  "generated_at": "2026-07-23T12:00:54+08:00",
+  "ranked_at": "2026-07-23T16:01:04+08:00",
+  "generated_at": "2026-07-23T16:01:04+08:00",
   "stocks": [
     {
       "stock_code": "688981",
@@ -9,14 +9,16 @@
       "name": "中芯国际",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -28,14 +30,16 @@
       "name": "北方华创",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -47,14 +51,16 @@
       "name": "中微公司",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -66,14 +72,16 @@
       "name": "拓荆科技",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -83,16 +91,18 @@
       "stock_name": "兆易创新",
       "code": "603986",
       "name": "兆易创新",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -102,16 +112,18 @@
       "stock_name": "江波龙",
       "code": "301308",
       "name": "江波龙",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -121,16 +133,18 @@
       "stock_name": "北京君正",
       "code": "300223",
       "name": "北京君正",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -140,18 +154,218 @@
       "stock_name": "东芯股份",
       "code": "688110",
       "name": "东芯股份",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "code": "300308",
+      "name": "中际旭创",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "code": "300502",
+      "name": "新易盛",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "code": "300394",
+      "name": "天孚通信",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "code": "300570",
+      "name": "太辰光",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "code": "300750",
+      "name": "宁德时代",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "code": "002594",
+      "name": "比亚迪",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "code": "300274",
+      "name": "阳光电源",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
+      "code": "600760",
+      "name": "中航沈飞",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600893",
+      "stock_name": "航发动力",
+      "code": "600893",
+      "name": "航发动力",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002179",
+      "stock_name": "中航光电",
+      "code": "002179",
+      "name": "中航光电",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
       ]
     },
     {
@@ -167,8 +381,8 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
       ]
@@ -186,8 +400,8 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
       ]
@@ -205,67 +419,10 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "000636",
-      "stock_name": "风华高科",
-      "code": "000636",
-      "name": "风华高科",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "300408",
-      "stock_name": "三环集团",
-      "code": "300408",
-      "name": "三环集团",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002859",
-      "stock_name": "洁美科技",
-      "code": "002859",
-      "name": "洁美科技",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
@@ -277,9 +434,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -296,9 +453,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -315,9 +472,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -334,9 +491,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -345,90 +502,62 @@
       ]
     },
     {
-      "stock_code": "300308",
-      "stock_name": "中际旭创",
-      "code": "300308",
-      "name": "中际旭创",
-      "sector": "半导体",
+      "stock_code": "000636",
+      "stock_name": "风华高科",
+      "code": "000636",
+      "name": "风华高科",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
     {
-      "stock_code": "300502",
-      "stock_name": "新易盛",
-      "code": "300502",
-      "name": "新易盛",
-      "sector": "半导体",
+      "stock_code": "300408",
+      "stock_name": "三环集团",
+      "code": "300408",
+      "name": "三环集团",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
     {
-      "stock_code": "300394",
-      "stock_name": "天孚通信",
-      "code": "300394",
-      "name": "天孚通信",
-      "sector": "半导体",
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "code": "002859",
+      "name": "洁美科技",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300570",
-      "stock_name": "太辰光",
-      "code": "300570",
-      "name": "太辰光",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "存储",
-        "CPO"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
-      "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -612,66 +741,6 @@
       "latest_created_at": "2026-07-22T12:28:18+08:00",
       "reasons": [
         "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300750",
-      "stock_name": "宁德时代",
-      "code": "300750",
-      "name": "宁德时代",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "002594",
-      "stock_name": "比亚迪",
-      "code": "002594",
-      "name": "比亚迪",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300274",
-      "stock_name": "阳光电源",
-      "code": "300274",
-      "name": "阳光电源",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -923,14 +992,16 @@
       "name": "中芯国际",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -942,14 +1013,16 @@
       "name": "北方华创",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -961,14 +1034,16 @@
       "name": "中微公司",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -980,14 +1055,16 @@
       "name": "拓荆科技",
       "sector": "半导体",
       "themes": [
-        "半导体"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T10:19:46+08:00",
+      "mentions": 2,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
       ]
@@ -997,16 +1074,18 @@
       "stock_name": "兆易创新",
       "code": "603986",
       "name": "兆易创新",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1016,16 +1095,18 @@
       "stock_name": "江波龙",
       "code": "301308",
       "name": "江波龙",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1035,16 +1116,18 @@
       "stock_name": "北京君正",
       "code": "300223",
       "name": "北京君正",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1054,18 +1137,218 @@
       "stock_name": "东芯股份",
       "code": "688110",
       "name": "东芯股份",
-      "sector": "存储",
+      "sector": "半导体",
       "themes": [
-        "存储"
+        "半导体",
+        "存储",
+        "CPO"
       ],
-      "live_score": 62.0,
+      "live_score": 66.0,
       "live_bucket": "弹性个股",
-      "score": 62.0,
+      "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T08:27:09+08:00",
+      "mentions": 3,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "code": "300308",
+      "name": "中际旭创",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "code": "300502",
+      "name": "新易盛",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "code": "300394",
+      "name": "天孚通信",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "code": "300570",
+      "name": "太辰光",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "CPO"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:34:36+08:00",
+      "reasons": [
+        "由主题CPO自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300750",
+      "stock_name": "宁德时代",
+      "code": "300750",
+      "name": "宁德时代",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002594",
+      "stock_name": "比亚迪",
+      "code": "002594",
+      "name": "比亚迪",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "300274",
+      "stock_name": "阳光电源",
+      "code": "300274",
+      "name": "阳光电源",
+      "sector": "新能源",
+      "themes": [
+        "新能源"
+      ],
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T14:38:52+08:00",
+      "reasons": [
+        "由主题新能源自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600760",
+      "stock_name": "中航沈飞",
+      "code": "600760",
+      "name": "中航沈飞",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600893",
+      "stock_name": "航发动力",
+      "code": "600893",
+      "name": "航发动力",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002179",
+      "stock_name": "中航光电",
+      "code": "002179",
+      "name": "中航光电",
+      "sector": "军工",
+      "themes": [
+        "军工"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-23T13:45:46+08:00",
+      "reasons": [
+        "由主题军工自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1081,8 +1364,8 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
       ]
@@ -1100,8 +1383,8 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
       ]
@@ -1119,67 +1402,10 @@
       "live_bucket": "弹性个股",
       "score": 58.0,
       "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-23T10:07:17+08:00",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
       "reasons": [
         "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "000636",
-      "stock_name": "风华高科",
-      "code": "000636",
-      "name": "风华高科",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "300408",
-      "stock_name": "三环集团",
-      "code": "300408",
-      "name": "三环集团",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002859",
-      "stock_name": "洁美科技",
-      "code": "002859",
-      "name": "洁美科技",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1191,9 +1417,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -1210,9 +1436,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -1229,9 +1455,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -1248,9 +1474,9 @@
       "themes": [
         "白酒"
       ],
-      "live_score": 52.3,
+      "live_score": 51.3,
       "live_bucket": "观察个股",
-      "score": 52.3,
+      "score": 51.3,
       "bucket": "观察个股",
       "mentions": 1,
       "latest_created_at": "2026-07-20T10:32:36+08:00",
@@ -1259,90 +1485,62 @@
       ]
     },
     {
-      "stock_code": "300308",
-      "stock_name": "中际旭创",
-      "code": "300308",
-      "name": "中际旭创",
-      "sector": "半导体",
+      "stock_code": "000636",
+      "stock_name": "风华高科",
+      "code": "000636",
+      "name": "风华高科",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
     {
-      "stock_code": "300502",
-      "stock_name": "新易盛",
-      "code": "300502",
-      "name": "新易盛",
-      "sector": "半导体",
+      "stock_code": "300408",
+      "stock_name": "三环集团",
+      "code": "300408",
+      "name": "三环集团",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
     {
-      "stock_code": "300394",
-      "stock_name": "天孚通信",
-      "code": "300394",
-      "name": "天孚通信",
-      "sector": "半导体",
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "code": "002859",
+      "name": "洁美科技",
+      "sector": "MLCC",
       "themes": [
-        "半导体",
-        "存储",
-        "CPO"
+        "MLCC"
       ],
       "live_score": 45.0,
       "live_bucket": "大池-历史提及",
       "score": 45.0,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
+      "latest_created_at": "2026-07-23T09:36:54+08:00",
       "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300570",
-      "stock_name": "太辰光",
-      "code": "300570",
-      "name": "太辰光",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "存储",
-        "CPO"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T15:16:32+08:00",
-      "reasons": [
-        "由主题CPO自动映射进入该条微博股票池",
+        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -1526,66 +1724,6 @@
       "latest_created_at": "2026-07-22T12:28:18+08:00",
       "reasons": [
         "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300750",
-      "stock_name": "宁德时代",
-      "code": "300750",
-      "name": "宁德时代",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "002594",
-      "stock_name": "比亚迪",
-      "code": "002594",
-      "name": "比亚迪",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300274",
-      "stock_name": "阳光电源",
-      "code": "300274",
-      "name": "阳光电源",
-      "sector": "新能源",
-      "themes": [
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T11:00:31+08:00",
-      "reasons": [
-        "由主题新能源自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
