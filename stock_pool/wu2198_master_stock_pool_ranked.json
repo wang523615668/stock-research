@@ -1,6 +1,6 @@
 {
-  "ranked_at": "2026-07-25T19:00:59+08:00",
-  "generated_at": "2026-07-25T19:00:59+08:00",
+  "ranked_at": "2026-07-26T08:24:58+08:00",
+  "generated_at": "2026-07-26T08:24:58+08:00",
   "stocks": [
     {
       "stock_code": "603986",
@@ -12,9 +12,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -32,9 +32,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -52,9 +52,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -72,9 +72,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -96,7 +96,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -116,7 +116,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -136,7 +136,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -156,7 +156,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -293,63 +293,6 @@
       "latest_created_at": "2026-07-24T20:32:51+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002230",
-      "stock_name": "科大讯飞",
-      "code": "002230",
-      "name": "科大讯飞",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688041",
-      "stock_name": "海光信息",
-      "code": "688041",
-      "name": "海光信息",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688256",
-      "stock_name": "寒武纪",
-      "code": "688256",
-      "name": "寒武纪",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
       ]
     },
     {
@@ -975,6 +918,66 @@
       "latest_created_at": "2026-07-02T07:07:52+00:00",
       "reasons": [
         "由主题CPO自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "code": "002230",
+      "name": "科大讯飞",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "code": "688041",
+      "name": "海光信息",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "code": "688256",
+      "name": "寒武纪",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     }
@@ -990,9 +993,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -1010,9 +1013,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -1030,9 +1033,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -1050,9 +1053,9 @@
         "存储",
         "半导体"
       ],
-      "live_score": 72.0,
+      "live_score": 70.4,
       "live_bucket": "核心个股",
-      "score": 72.0,
+      "score": 70.4,
       "bucket": "核心个股",
       "mentions": 7,
       "latest_created_at": "2026-07-25T18:31:23+08:00",
@@ -1074,7 +1077,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1094,7 +1097,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1114,7 +1117,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1134,7 +1137,7 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 3,
+      "mentions": 2,
       "latest_created_at": "2026-07-25T12:38:38+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1271,63 +1274,6 @@
       "latest_created_at": "2026-07-24T20:32:51+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002230",
-      "stock_name": "科大讯飞",
-      "code": "002230",
-      "name": "科大讯飞",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688041",
-      "stock_name": "海光信息",
-      "code": "688041",
-      "name": "海光信息",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688256",
-      "stock_name": "寒武纪",
-      "code": "688256",
-      "name": "寒武纪",
-      "sector": "人工智能",
-      "themes": [
-        "人工智能"
-      ],
-      "live_score": 46.7,
-      "live_bucket": "观察个股",
-      "score": 46.7,
-      "bucket": "观察个股",
-      "mentions": 1,
-      "latest_created_at": "2026-07-22T08:19:50+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1953,6 +1899,66 @@
       "latest_created_at": "2026-07-02T07:07:52+00:00",
       "reasons": [
         "由主题CPO自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "code": "002230",
+      "name": "科大讯飞",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "code": "688041",
+      "name": "海光信息",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "code": "688256",
+      "name": "寒武纪",
+      "sector": "人工智能",
+      "themes": [
+        "人工智能"
+      ],
+      "live_score": 43.8,
+      "live_bucket": "大池-历史提及",
+      "score": 43.8,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-22T08:19:50+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     }
