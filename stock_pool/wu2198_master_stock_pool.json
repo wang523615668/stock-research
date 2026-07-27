@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:01:06+08:00",
+  "generated_at": "2026-07-27T13:00:16+08:00",
   "count": 48,
   "rows": [
     {
@@ -10,7 +10,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -18,8 +18,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -32,7 +32,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -40,8 +40,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -54,7 +54,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -62,8 +62,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -76,7 +76,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -84,10 +84,170 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600276",
+      "stock_name": "恒瑞医药",
+      "code": "600276",
+      "name": "恒瑞医药",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "603259",
+      "stock_name": "药明康德",
+      "code": "603259",
+      "name": "药明康德",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688235",
+      "stock_name": "百济神州",
+      "code": "688235",
+      "name": "百济神州",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600436",
+      "stock_name": "片仔癀",
+      "code": "600436",
+      "name": "片仔癀",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "code": "600519",
+      "name": "贵州茅台",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "code": "000858",
+      "name": "五粮液",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "000568",
+      "stock_name": "泸州老窖",
+      "code": "000568",
+      "name": "泸州老窖",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600809",
+      "stock_name": "山西汾酒",
+      "code": "600809",
+      "name": "山西汾酒",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
       ]
     },
     {
@@ -98,14 +258,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -119,14 +279,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -140,14 +300,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -161,120 +321,17 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "601888",
-      "stock_name": "中国中免",
-      "code": "601888",
-      "name": "中国中免",
-      "sector": "存储",
-      "themes": [
-        "存储",
-        "消费"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T06:34:55+08:00",
-      "reasons": [
-        "由主题消费自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "000333",
-      "stock_name": "美的集团",
-      "code": "000333",
-      "name": "美的集团",
-      "sector": "存储",
-      "themes": [
-        "存储",
-        "消费"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T06:34:55+08:00",
-      "reasons": [
-        "由主题消费自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002230",
-      "stock_name": "科大讯飞",
-      "code": "002230",
-      "name": "科大讯飞",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688041",
-      "stock_name": "海光信息",
-      "code": "688041",
-      "name": "海光信息",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688256",
-      "stock_name": "寒武纪",
-      "code": "688256",
-      "name": "寒武纪",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
       ]
     },
     {
@@ -286,12 +343,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -305,12 +362,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -324,12 +381,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -339,16 +396,17 @@
       "stock_name": "招商银行",
       "code": "600036",
       "name": "招商银行",
-      "sector": "银行",
+      "sector": "存储",
       "themes": [
+        "存储",
         "银行"
       ],
-      "live_score": 52.1,
-      "live_bucket": "观察个股",
-      "score": 52.1,
-      "bucket": "观察个股",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T20:32:51+08:00",
+      "latest_created_at": "2026-07-27T10:32:53+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
       ]
@@ -358,102 +416,76 @@
       "stock_name": "兴业银行",
       "code": "601166",
       "name": "兴业银行",
-      "sector": "银行",
+      "sector": "存储",
       "themes": [
+        "存储",
         "银行"
       ],
-      "live_score": 52.1,
-      "live_bucket": "观察个股",
-      "score": 52.1,
-      "bucket": "观察个股",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T20:32:51+08:00",
+      "latest_created_at": "2026-07-27T10:32:53+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "600276",
-      "stock_name": "恒瑞医药",
-      "code": "600276",
-      "name": "恒瑞医药",
-      "sector": "创新药",
+      "stock_code": "000636",
+      "stock_name": "风华高科",
+      "code": "000636",
+      "name": "风华高科",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "603259",
-      "stock_name": "药明康德",
-      "code": "603259",
-      "name": "药明康德",
-      "sector": "创新药",
+      "stock_code": "300408",
+      "stock_name": "三环集团",
+      "code": "300408",
+      "name": "三环集团",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "688235",
-      "stock_name": "百济神州",
-      "code": "688235",
-      "name": "百济神州",
-      "sector": "创新药",
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "code": "002859",
+      "name": "洁美科技",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "600436",
-      "stock_name": "片仔癀",
-      "code": "600436",
-      "name": "片仔癀",
-      "sector": "创新药",
-      "themes": [
-        "创新药",
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
-      "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
@@ -461,20 +493,18 @@
       "stock_name": "中信证券",
       "code": "600030",
       "name": "中信证券",
-      "sector": "存储",
+      "sector": "券商",
       "themes": [
-        "存储",
         "券商"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-23T22:17:48+08:00",
+      "latest_created_at": "2026-07-27T09:34:33+08:00",
       "reasons": [
-        "由主题券商自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题券商自动映射进入该条微博股票池"
       ]
     },
     {
@@ -482,19 +512,122 @@
       "stock_name": "东方财富",
       "code": "300059",
       "name": "东方财富",
+      "sector": "券商",
+      "themes": [
+        "券商"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T09:34:33+08:00",
+      "reasons": [
+        "由主题券商自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "code": "002230",
+      "name": "科大讯飞",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "code": "688041",
+      "name": "海光信息",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "code": "688256",
+      "name": "寒武纪",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "601888",
+      "stock_name": "中国中免",
+      "code": "601888",
+      "name": "中国中免",
       "sector": "存储",
       "themes": [
         "存储",
-        "券商"
+        "消费"
       ],
-      "live_score": 45.0,
+      "live_score": 45,
       "live_bucket": "大池-历史提及",
-      "score": 45.0,
+      "score": 45,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-23T22:17:48+08:00",
+      "latest_created_at": "2026-07-27T06:34:55+08:00",
       "reasons": [
-        "由主题券商自动映射进入该条微博股票池",
+        "由主题消费自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "code": "000333",
+      "name": "美的集团",
+      "sector": "存储",
+      "themes": [
+        "存储",
+        "消费"
+      ],
+      "live_score": 45,
+      "live_bucket": "大池-历史提及",
+      "score": 45,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T06:34:55+08:00",
+      "reasons": [
+        "由主题消费自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -587,86 +720,6 @@
       ]
     },
     {
-      "stock_code": "600519",
-      "stock_name": "贵州茅台",
-      "code": "600519",
-      "name": "贵州茅台",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000858",
-      "stock_name": "五粮液",
-      "code": "000858",
-      "name": "五粮液",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000568",
-      "stock_name": "泸州老窖",
-      "code": "000568",
-      "name": "泸州老窖",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "600809",
-      "stock_name": "山西汾酒",
-      "code": "600809",
-      "name": "山西汾酒",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
       "stock_code": "600760",
       "stock_name": "中航沈飞",
       "code": "600760",
@@ -723,66 +776,6 @@
       "latest_created_at": "2026-07-23T13:45:46+08:00",
       "reasons": [
         "由主题军工自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000636",
-      "stock_name": "风华高科",
-      "code": "000636",
-      "name": "风华高科",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300408",
-      "stock_name": "三环集团",
-      "code": "300408",
-      "name": "三环集团",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "002859",
-      "stock_name": "洁美科技",
-      "code": "002859",
-      "name": "洁美科技",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -1008,7 +1001,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -1016,8 +1009,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1030,7 +1023,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -1038,8 +1031,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1052,7 +1045,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -1060,8 +1053,8 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
       ]
@@ -1074,7 +1067,7 @@
       "sector": "存储",
       "themes": [
         "存储",
-        "消费",
+        "银行",
         "半导体",
         "人工智能"
       ],
@@ -1082,10 +1075,170 @@
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 7,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "mentions": 10,
+      "latest_created_at": "2026-07-27T11:22:30+08:00",
       "reasons": [
         "由主题存储自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600276",
+      "stock_name": "恒瑞医药",
+      "code": "600276",
+      "name": "恒瑞医药",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "603259",
+      "stock_name": "药明康德",
+      "code": "603259",
+      "name": "药明康德",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688235",
+      "stock_name": "百济神州",
+      "code": "688235",
+      "name": "百济神州",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600436",
+      "stock_name": "片仔癀",
+      "code": "600436",
+      "name": "片仔癀",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 3,
+      "latest_created_at": "2026-07-27T10:49:58+08:00",
+      "reasons": [
+        "由主题创新药自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600519",
+      "stock_name": "贵州茅台",
+      "code": "600519",
+      "name": "贵州茅台",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "000858",
+      "stock_name": "五粮液",
+      "code": "000858",
+      "name": "五粮液",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "000568",
+      "stock_name": "泸州老窖",
+      "code": "000568",
+      "name": "泸州老窖",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "600809",
+      "stock_name": "山西汾酒",
+      "code": "600809",
+      "name": "山西汾酒",
+      "sector": "创新药",
+      "themes": [
+        "创新药",
+        "白酒"
+      ],
+      "live_score": 66.0,
+      "live_bucket": "弹性个股",
+      "score": 66.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T10:20:51+08:00",
+      "reasons": [
+        "由主题白酒自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1096,14 +1249,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1117,14 +1270,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1138,14 +1291,14 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
@@ -1159,120 +1312,17 @@
       "sector": "半导体",
       "themes": [
         "半导体",
-        "人工智能",
-        "存储"
+        "存储",
+        "人工智能"
       ],
       "live_score": 66.0,
       "live_bucket": "弹性个股",
       "score": 66.0,
       "bucket": "弹性个股",
-      "mentions": 4,
+      "mentions": 1,
       "latest_created_at": "2026-07-27T08:10:24+08:00",
       "reasons": [
         "由主题半导体自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "601888",
-      "stock_name": "中国中免",
-      "code": "601888",
-      "name": "中国中免",
-      "sector": "存储",
-      "themes": [
-        "存储",
-        "消费"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T06:34:55+08:00",
-      "reasons": [
-        "由主题消费自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "000333",
-      "stock_name": "美的集团",
-      "code": "000333",
-      "name": "美的集团",
-      "sector": "存储",
-      "themes": [
-        "存储",
-        "消费"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T06:34:55+08:00",
-      "reasons": [
-        "由主题消费自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "002230",
-      "stock_name": "科大讯飞",
-      "code": "002230",
-      "name": "科大讯飞",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688041",
-      "stock_name": "海光信息",
-      "code": "688041",
-      "name": "海光信息",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
-      ]
-    },
-    {
-      "stock_code": "688256",
-      "stock_name": "寒武纪",
-      "code": "688256",
-      "name": "寒武纪",
-      "sector": "半导体",
-      "themes": [
-        "半导体",
-        "人工智能",
-        "存储"
-      ],
-      "live_score": 58.0,
-      "live_bucket": "弹性个股",
-      "score": 58.0,
-      "bucket": "弹性个股",
-      "mentions": 2,
-      "latest_created_at": "2026-07-27T08:10:24+08:00",
-      "reasons": [
-        "由主题人工智能自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1284,12 +1334,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -1303,12 +1353,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -1322,12 +1372,12 @@
       "themes": [
         "新能源"
       ],
-      "live_score": 52.3,
-      "live_bucket": "观察个股",
-      "score": 52.3,
-      "bucket": "观察个股",
+      "live_score": 64.0,
+      "live_bucket": "弹性个股",
+      "score": 64.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T21:37:30+08:00",
+      "latest_created_at": "2026-07-27T10:31:06+08:00",
       "reasons": [
         "由主题新能源自动映射进入该条微博股票池"
       ]
@@ -1337,16 +1387,17 @@
       "stock_name": "招商银行",
       "code": "600036",
       "name": "招商银行",
-      "sector": "银行",
+      "sector": "存储",
       "themes": [
+        "存储",
         "银行"
       ],
-      "live_score": 52.1,
-      "live_bucket": "观察个股",
-      "score": 52.1,
-      "bucket": "观察个股",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T20:32:51+08:00",
+      "latest_created_at": "2026-07-27T10:32:53+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
       ]
@@ -1356,102 +1407,76 @@
       "stock_name": "兴业银行",
       "code": "601166",
       "name": "兴业银行",
-      "sector": "银行",
+      "sector": "存储",
       "themes": [
+        "存储",
         "银行"
       ],
-      "live_score": 52.1,
-      "live_bucket": "观察个股",
-      "score": 52.1,
-      "bucket": "观察个股",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T20:32:51+08:00",
+      "latest_created_at": "2026-07-27T10:32:53+08:00",
       "reasons": [
         "由主题银行自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "600276",
-      "stock_name": "恒瑞医药",
-      "code": "600276",
-      "name": "恒瑞医药",
-      "sector": "创新药",
+      "stock_code": "000636",
+      "stock_name": "风华高科",
+      "code": "000636",
+      "name": "风华高科",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "603259",
-      "stock_name": "药明康德",
-      "code": "603259",
-      "name": "药明康德",
-      "sector": "创新药",
+      "stock_code": "300408",
+      "stock_name": "三环集团",
+      "code": "300408",
+      "name": "三环集团",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
-      "stock_code": "688235",
-      "stock_name": "百济神州",
-      "code": "688235",
-      "name": "百济神州",
-      "sector": "创新药",
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "code": "002859",
+      "name": "洁美科技",
+      "sector": "MLCC",
       "themes": [
-        "创新药",
-        "新能源"
+        "MLCC"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
+      "latest_created_at": "2026-07-27T10:14:28+08:00",
       "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "600436",
-      "stock_name": "片仔癀",
-      "code": "600436",
-      "name": "片仔癀",
-      "sector": "创新药",
-      "themes": [
-        "创新药",
-        "新能源"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-24T10:00:29+08:00",
-      "reasons": [
-        "由主题创新药自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题MLCC自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1459,20 +1484,18 @@
       "stock_name": "中信证券",
       "code": "600030",
       "name": "中信证券",
-      "sector": "存储",
+      "sector": "券商",
       "themes": [
-        "存储",
         "券商"
       ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
       "mentions": 1,
-      "latest_created_at": "2026-07-23T22:17:48+08:00",
+      "latest_created_at": "2026-07-27T09:34:33+08:00",
       "reasons": [
-        "由主题券商自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
+        "由主题券商自动映射进入该条微博股票池"
       ]
     },
     {
@@ -1480,19 +1503,122 @@
       "stock_name": "东方财富",
       "code": "300059",
       "name": "东方财富",
+      "sector": "券商",
+      "themes": [
+        "券商"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T09:34:33+08:00",
+      "reasons": [
+        "由主题券商自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "002230",
+      "stock_name": "科大讯飞",
+      "code": "002230",
+      "name": "科大讯飞",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "code": "688041",
+      "name": "海光信息",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "code": "688256",
+      "name": "寒武纪",
+      "sector": "半导体",
+      "themes": [
+        "半导体",
+        "存储",
+        "人工智能"
+      ],
+      "live_score": 58.0,
+      "live_bucket": "弹性个股",
+      "score": 58.0,
+      "bucket": "弹性个股",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T08:10:24+08:00",
+      "reasons": [
+        "由主题人工智能自动映射进入该条微博股票池"
+      ]
+    },
+    {
+      "stock_code": "601888",
+      "stock_name": "中国中免",
+      "code": "601888",
+      "name": "中国中免",
       "sector": "存储",
       "themes": [
         "存储",
-        "券商"
+        "消费"
       ],
-      "live_score": 45.0,
+      "live_score": 45,
       "live_bucket": "大池-历史提及",
-      "score": 45.0,
+      "score": 45,
       "bucket": "大池-历史提及",
       "mentions": 1,
-      "latest_created_at": "2026-07-23T22:17:48+08:00",
+      "latest_created_at": "2026-07-27T06:34:55+08:00",
       "reasons": [
-        "由主题券商自动映射进入该条微博股票池",
+        "由主题消费自动映射进入该条微博股票池",
+        "历史池保留(本轮未新增信号)"
+      ]
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "美的集团",
+      "code": "000333",
+      "name": "美的集团",
+      "sector": "存储",
+      "themes": [
+        "存储",
+        "消费"
+      ],
+      "live_score": 45,
+      "live_bucket": "大池-历史提及",
+      "score": 45,
+      "bucket": "大池-历史提及",
+      "mentions": 1,
+      "latest_created_at": "2026-07-27T06:34:55+08:00",
+      "reasons": [
+        "由主题消费自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
@@ -1585,86 +1711,6 @@
       ]
     },
     {
-      "stock_code": "600519",
-      "stock_name": "贵州茅台",
-      "code": "600519",
-      "name": "贵州茅台",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000858",
-      "stock_name": "五粮液",
-      "code": "000858",
-      "name": "五粮液",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000568",
-      "stock_name": "泸州老窖",
-      "code": "000568",
-      "name": "泸州老窖",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "600809",
-      "stock_name": "山西汾酒",
-      "code": "600809",
-      "name": "山西汾酒",
-      "sector": "白酒",
-      "themes": [
-        "白酒"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-20T10:32:36+08:00",
-      "reasons": [
-        "由主题白酒自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
       "stock_code": "600760",
       "stock_name": "中航沈飞",
       "code": "600760",
@@ -1721,66 +1767,6 @@
       "latest_created_at": "2026-07-23T13:45:46+08:00",
       "reasons": [
         "由主题军工自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "000636",
-      "stock_name": "风华高科",
-      "code": "000636",
-      "name": "风华高科",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "300408",
-      "stock_name": "三环集团",
-      "code": "300408",
-      "name": "三环集团",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
-        "历史池保留(本轮未新增信号)"
-      ]
-    },
-    {
-      "stock_code": "002859",
-      "stock_name": "洁美科技",
-      "code": "002859",
-      "name": "洁美科技",
-      "sector": "MLCC",
-      "themes": [
-        "MLCC"
-      ],
-      "live_score": 45.0,
-      "live_bucket": "大池-历史提及",
-      "score": 45.0,
-      "bucket": "大池-历史提及",
-      "mentions": 1,
-      "latest_created_at": "2026-07-23T09:36:54+08:00",
-      "reasons": [
-        "由主题MLCC自动映射进入该条微博股票池",
         "历史池保留(本轮未新增信号)"
       ]
     },
